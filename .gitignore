@@ -1,0 +1,17 @@
+# Local configuration
+.env
+
+# Build output
+/bin/
+/product-api
+*.exe
+
+# Test and coverage output
+*.test
+*.out
+coverage.html
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
